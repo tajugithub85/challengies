@@ -1,0 +1,75 @@
+.flex-container {
+  display: flex;
+  background-color: white;
+  flex-wrap: wrap;
+  border: 2px solid black;
+  margin-left: 40em;
+  margin-right: 15em;
+  padding-bottom: 5px;
+  padding-left: 2em;
+
+
+}
+
+.flex-item {
+  width: 140px;
+  margin: 20px;
+  padding-bottom: 10em;
+  line-height: 100px;
+  justify-items: center;
+  
+  
+} 
+
+.box-1 {
+ width: 100px;
+ line-height: 20px;
+ background-color: white;
+ text-align: center;
+ margin-bottom: 2em;
+ padding-right: 29em;
+ border: 2px solid black;
+
+ 
+}
+ .box-2 {
+  width: 100px;
+  background-color: green;
+  margin-top: 0em;
+  margin-right: 0em;
+  padding-top: 4em;
+  padding-right: 29em;
+  border: 2px solid black;
+}
+.box-3 {
+  background-image: url(tree.jpg);
+  background-size: 200px;
+  margin-top: 2em;
+  border: 2px solid black;
+ 
+}
+.box-4 {
+  background-image: url(tree.jpg);
+  background-size: 200px;
+  margin-top: 2em;
+ border: 2px solid black;
+}
+.box-5 {
+  background-image: url(tree.jpg);
+  background-size: 200px;
+  margin-top: 2em;
+ border: 2px solid black;
+}
+
+ .box-6{
+ background-color: orange;
+ border: 2px solid black;
+}
+ .box-7{
+ background-color: red;
+border: 2px solid black;
+}
+.box-8{
+background-color: skyblue;
+border: 2px solid black;
+}
